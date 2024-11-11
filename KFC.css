@@ -1,0 +1,425 @@
+
+body{
+    margin: 0;
+}
+
+/*top navigator*/
+.navigation{
+    width: 100%;
+    height: 153px;
+    background-color: #ffffff;
+    position: fixed;
+}
+.topnav{
+    width: 100%;
+    height: 50px;
+    background-color: #ffffff;
+    position: fixed;
+}
+.fullline{
+    margin-top: 0px;
+    width: 100%;
+    color: black;
+    padding-left: 0px;
+    margin-left: 0px;
+    opacity: 0.3;
+}
+.img1{
+    width: 14px;
+    margin-left: 32rem;
+    height: 15px;
+    float: left;
+    margin-top: 1.2rem;
+}
+.para1{
+    float: left;
+    margin-left: 10px;
+}
+.button1{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    height: 30px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 10px;
+    border-radius: 30px;
+    color: #fff;
+    padding: 0;
+}
+.para2{
+    margin: 0;
+    margin-top: 5px;
+    
+}
+
+/*bottom left*/
+.left{
+    width: 50%;
+    height: 100%;
+    background-color: #ffffff;
+    float: left;
+}
+.img2{
+    width: 67px;
+    height: 23px;
+    margin-top: 90px;
+    margin-left: 120px;
+    float: left;
+}
+.menu{
+    margin-top: 90px;
+    margin-left: 44px;
+    float: left;
+    color: black;
+    font-size: medium;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.deal{
+    margin-top: 90px;
+    margin-left: 310px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.right{
+    width: 50%;
+    background-color: #ffffff;
+    height: 102px;
+    float: left;
+}
+.logo{
+    margin-top: 51px;
+    margin-left: 450px;
+    float: left;
+}
+.signin{
+    color: black;
+    margin-left: 7px;
+    margin-top: 92px;
+    float: left;
+    text-decoration: none;
+    font-weight: 900;
+}
+.bucket{
+    margin-top: 69px;
+    width: 120px;
+
+}
+
+.bar{
+    width: 100%;
+    height: 68px;
+    background-color: black;
+    float: left;
+    margin-top: 153px;
+    
+    
+    overflow-y: auto;
+}
+.heading3{
+    color: #fff;
+    margin-left: 520px;
+    font-weight: bolder;
+    margin-top: 24px;
+    padding-right: 1rem;
+    letter-spacing: 0.0px;
+    width: 25%;
+    font-size: 12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    float: left;
+}
+.button3{
+    background-color: #e4002b;
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    height: 38px;
+    float: left;
+    margin-left: -46px;
+    margin-top: 10px;
+    border-radius: 30px;
+    color: #fff;
+    padding: 0;  
+    width: 155px;
+    height: 45px;
+    float: left; 
+}
+.startkey{
+    margin-top: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:14px;
+}
+.ads1{
+    width: 100%;
+    height: 422px;
+    float: left;
+}
+
+.recommends{
+    background-color: #ffffff;
+    width: 100%;
+    height: 865px;
+    float: left;
+}
+h4{
+    margin-top: 119px;
+    margin-left: 278px;
+    font-size: 31px;
+    letter-spacing: 0.5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: normal;
+}
+
+hr{
+    width: 857px;
+    margin-top: -61px;
+    float: left;
+    margin-left: 557px;
+    opacity: 0.1;
+}
+.fst-row{
+    margin-left: 234px;
+    width: 1207px;
+    height: 298px;
+    margin-top: 16px;
+}
+
+.sec-row{
+    margin-left: 190px;
+    width: 1255px;
+    height: 298px;
+    margin-top: 7px;
+}
+.ads2{
+    width: 100%;
+    height: 1150px;
+    background-color: #202124;
+    float: left;
+}
+.lines{
+    margin-left: 228px;
+}.exclusive-offer{
+    
+    width: 419px;
+    height: 49px;
+    margin-top: 20px;
+    margin-left: 212px;
+}
+
+.view{
+    width: 100px;
+    height: 30px;
+    margin-left: 1250px;
+    margin-top: -28px;
+    color: #fff;
+    text-decoration: none;
+    float: left;
+    
+}
+.arrow{
+    margin-bottom: 100px;
+    margin-top: -28px;
+    margin-left: 1360px;
+    width: 65px;
+    height: 10px;
+    color: #fff;
+}
+.ads3{
+    
+    width: 1034px;
+    
+    margin-left: 215px;
+    margin-top: -51px;
+}
+.buttonnew1{
+    width: 50px;
+    height: 40px;
+    margin-top: 40px;
+    margin-left: 50px;
+    background-color: blue;
+    border-radius: 30px;
+}
+.ads2-left{
+    width: 214px;
+    overflow-x: hi;
+    height: 446px;
+    background-color: #202124;
+    margin-right: 10px;
+    margin-left: 1px;
+    margin-top: -451px;
+}
+
+.leftside{
+    width: 111px;
+    height: 111px;
+    margin-top: 159px;
+    margin-left: 107px;
+    
+}
+.ads-right{
+    float: left;
+    width: 220px;
+    height: 430px;
+    margin-top: -446px;
+    margin-left: 1249px;
+    background-color: #202124;
+}
+.rightside{
+    width: 88px;
+    height: 99px;
+    margin-top: 183px;
+    margin-left: 6px;
+}
+.full-line{
+    width: 1006px;
+    margin-top: 60px;
+    margin-left: 228px;
+    opacity: 5;
+    margin-right: 262px;
+}
+.kfc{
+    width: 75px;
+    height: 63px;
+    margin-left: 122px;
+    margin-top: 212px;
+}
+.table{
+    width: 40%;
+    margin-left: 286px;
+    margin-top: -70px;
+    float: left;
+    
+}
+.curser{
+    tab-size: 20px;
+    
+}
+.about a {
+    text-decoration: none; 
+    color: #ffffff; 
+}
+.terms a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.menus a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.get a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.care a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.privacy a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.order a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.contact a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.career a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.Disclaime a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.gift a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.our a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.notices a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.nutrition a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.kfc-feed a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.policy a{
+    text-decoration: none;
+    color: #ffffff;
+}.response a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.find-kfc{
+    width: 16px;
+    height: 16px;
+    margin-top: -60px;
+    margin-left: 51px;
+    float: left;
+}
+.find-a-kfc{
+    margin-left: 75px;
+    margin-top: -62px;
+    width: 76px;
+    float: left;
+    color: #ffffff;
+    
+}
+.google{
+    width: 129px;
+    height: 49px;
+    float: left;
+    margin-top: -64px;
+    margin-left: 236px;
+}.appstore{
+    width: 159px;
+    height: 73px;
+    margin-top: -82px;
+    margin-left: 381px;
+    float: left;
+}
+.copy-right{
+    width: 366px;
+    margin-top: 103px;
+    margin-left: 518px;
+    text-align: center;
+    float: left;
+    color: #ffffff;
+    font-size: small;
+}
+
+.instagram{
+    width: 30px;
+    height: 30px;
+    margin-top: 91px;
+    margin-left: 406px;
+    float: left;
+}
+.facebook{
+    width: 30px;
+    height: 30px;
+    margin-top: 90px;
+    margin-left: 12px;
+    float: left;
+}
+.twitter{
+    width: 30px;
+    height: 30px;
+    margin-top: 90px;
+    margin-left: 12px;
+    float: left;
+}
